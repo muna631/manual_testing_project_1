@@ -1,1 +1,1 @@
-This is the list of test scenario where each scenario holds some test cases.
+This is the list of test scenario and their corresponding test cases.
